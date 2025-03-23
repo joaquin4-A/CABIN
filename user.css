@@ -1,0 +1,18 @@
+.exit-user {
+    padding-top: 800px;
+    text-align: right;
+
+}
+
+.exit-user a{
+    font-weight: bold;
+    font-size: 15px;
+    color: saddlebrown;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.exit-user a:hover{
+    color: #444444;
+}
+
